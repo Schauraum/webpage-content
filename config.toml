@@ -1,4 +1,4 @@
-baseURL = "https://fuxonauts.de/"
+baseURL = "https://schauraum.org/"
 
 defaultContentLanguage = "de"
 
@@ -19,7 +19,7 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
 [languages]
   [languages.de]
     weight = 1
-    title = "Fuxonauts"
+    title = "Schauraum"
     languageCode = "de"
     languageName = "Deutsch"
     [[languages.de.menu.main]]
@@ -84,7 +84,7 @@ theme = [ "LoveIt", "hugo-shortcode-gallery" ]
 
   [languages.en]
     weight = 2
-    title = "Fuxonauts"
+    title = "Schauraum"
     languageCode = "en"
     languageName = "English"
     [[languages.en.menu.main]]
